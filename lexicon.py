@@ -11,7 +11,7 @@ class lexicon(object):
         self.results = [] # the output of your script.
         self.the_words = the_words
 
-    def scan(the_words):
+    def scan(self the_words):
 
         the_words  = the_words.split(" ")
         
